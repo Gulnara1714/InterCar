@@ -17,18 +17,18 @@ const Footer = () => {
           <FaTelegram />
         </div>
         <p className={styles.copyright}>
-          Copyright © 2020 - 2024 Название компании
+          Copyright © 2020 - 2024 INTERCAR
         </p>
       </div>
       <div className={styles.contactInfo}>
         <div className={styles.phone}>
-          <p>+996  000-00-00</p>
-          <p>+996  000-00-00</p>
+          <p>+996  779-344-431</p>
+          <p>+996  553-442-431</p>
         </div>
         <div className={styles.address}>
           <p>
-            г. Пакровка, Майский проспект,
-            <br /> дом, строение, номер кабинета
+            г. Каракол, ул. Масалиева,
+            <br /> дом 63,
           </p>
         </div>
       </div>
@@ -39,7 +39,7 @@ const Footer = () => {
           <p>вс: (по договоренности)</p>
         </div>
         <div className={styles.email}>
-          <a href="mailto:test@example.com">test@example.com</a>
+          <a href="mailto:test@example.com">intercar@gmail.com</a>
         </div>
       </div>
     </div>
